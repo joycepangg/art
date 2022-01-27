@@ -17,6 +17,8 @@ The main function in this package is to generate a random art piece with the mak
 
 make_art () generates a piece of abstract art made from genom line. 
 
+Below is an example of the art created by my function. 
+![alt text](https://raw.githubusercontent.com/joycepangg/art/master/Rplot.png)
 
 
 
