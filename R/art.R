@@ -13,7 +13,7 @@ make_art <- function(input){
       theme(axis.title.y=element_blank(),axis.text.y=element_blank(),axis.ticks.y=element_blank())+
       theme(legend.position = "none")
   }else{
-    set.seed(seed)
+    set.seed(input)
     x <- c(rnorm(300, 0, 1))
     y <- c(rnorm(300, 1, 4))
     z <- c(rep("x",200 ), rep("y", 200), rep("z", 200))
