@@ -1,6 +1,6 @@
 # art
 This is the homework for question 3.2.2 (Advanced R). This includes a make_art function that generates random art. 
-Type a number! Or if you are lazy just type make_art() and a beautiful random art piece will pop up on your R studio
+Type a number! Or if you are lazy just type make_art() and a beautiful random art piece will pop up. 
 
 
 ## Installation
